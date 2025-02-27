@@ -1,0 +1,25 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c;
+    height: 100vh;
+    border: 1px solid red;
+}
+
+.stopwatch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    border: 1px solid red;
+    height: 14rem;
+    font-size: 50px;
+
+}
+
+.rectangle {
+    background-color: black;
+    width: 100vw;
+    height: 70vh;
+    border: 1px solid red;
+}
